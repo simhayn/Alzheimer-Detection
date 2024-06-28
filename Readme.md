@@ -24,8 +24,8 @@ Main steps:
 
 - **Exploratory Data Analysis** (EDA): Visualize features' relationships and distributions. Check some statistics.
 - **Data Preprocessing**: Scale the cumulative features. Covert categorical features to binary.
-- **Model Training**: Train some models on the preprocessed data *(Models: SVM, Logistic Regression, Random Forest, GBoost, Naive Bayes, XGBoost with Random searchCV, Neural Networks).* Select 10 features with higher importance to improve the models. Plot the Neural Networks' validation graph.
-- **Model Evaluation**: Evaluate the models' performances.
+- **Model Training**: Train some models on the preprocessed data *(Models: SVM, Logistic Regression, Random Forest, GBoost, Naive Bayes, XGBoost with Random searchCV, Neural Networks).* Select 10 features with higher importance to improve the models. 
+- **Model Evaluation**: Evaluate the models' performances. Plot the Neural Networks' validation graph.
 
 
 Hope you enjoy this project! 
