@@ -20,6 +20,8 @@ the model was fit to patients who had normal levels of cholesterol and blood pre
 
 ## Binary Classification- Alzheimers
 In this project I explored the 🧠 Alzheimers disease dataset downloaded from Kaggle.com
+
+
 Main steps:
 
 - **Exploratory Data Analysis** (EDA): Visualize features' relationships and distributions. Check some statistics.
