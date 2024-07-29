@@ -31,3 +31,5 @@ Main steps:
 
 
 Hope you enjoy this project! 
+
+There are more projects of binary classification for healthcare datasets in this repo. feel free to check them out!
